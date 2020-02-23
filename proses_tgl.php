@@ -12,4 +12,6 @@ $data = [
 
 //formating json
 echo json_encode($data);
+
+// Follow me at IG @rzkrsnt :) te Amo
  ?>
